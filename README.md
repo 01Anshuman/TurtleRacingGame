@@ -5,7 +5,8 @@ Here I made a Simple Graphical User Interface Tutle Racing game using Turtle and
 
 
 
-For checking the Code you can refer the file TurtleRace.py
+For checking the Code you can refer the file *TurtleRace.py*
+\n
 or 
 
 if you don't directly want to experience game without running the code on your computer for that i have already attached .exe file just download it to your computer and double click to this you can play the game....
