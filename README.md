@@ -1,7 +1,8 @@
 # TurtleRacingGame
-Here I made a game using Turtle library having the below functionality
+Here I made a Simple Graphical User Interface Tutle Racing game using Turtle and Tkinter library having the below functionality
 - You will be asked for betting on which color turtle will be winning
 - Game will be started and you can see the result on your screen
+
 
 
 For checking the Code you can refer the file TurtleRace.py
